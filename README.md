@@ -49,7 +49,7 @@ Outside academics, I love contributing to **open-source projects**, exploring **
 
 ## 🌐 Let's Connect
 
-- 📫 Email: your.email@example.com  
+- 📫 Email: dhanushhiatus019@gmail.com  
 - 🌍 Portfolio: [https://dhanushiatus.lovable.app/] 
 - 💼 LinkedIn: [linkedin.com/in/dhanushiatus](https://linkedin.com/in/dhanushiatus)
 
