@@ -61,4 +61,8 @@
 
 ---
 
-*Thanks for stopping by! Feel free to explore my repositories and connect if you're interested in collaboration, internships, or just chatting tech!* 🚀
+## 🐍 GitHub Contribution Grid Snake
+
+![snake gif](https://github.com/dhanushiatus/dhanushiatus/blob/output/github-contribution-grid-snake.svg)
+
+![Profile views](https://komarev.com/ghpvc/?username=dhanushiatus&label=Profile%20views&color=0e75b6&style=flat)
