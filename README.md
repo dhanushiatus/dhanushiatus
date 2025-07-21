@@ -60,5 +60,5 @@
 🌍 **Portfolio:** [https://dhanushiatus.lovable.app/](https://dhanushiatus.lovable.app/)
 
 ---
-https://raw.githubusercontent.com/thuve-codes/thuve-codes/main/github-snake.svg
+
 ![Profile views](https://komarev.com/ghpvc/?username=dhanushiatus&label=Profile%20views&color=0e75b6&style=flat)
