@@ -65,4 +65,7 @@
 
 ![snake gif](https://github.com/dhanushiatus/dhanushiatus/blob/output/github-contribution-grid-snake.svg)
 
+
+![Jagapathy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhanushiatus&show_icons=true&theme=tokyonight)
+
 ![Profile views](https://komarev.com/ghpvc/?username=dhanushiatus&label=Profile%20views&color=0e75b6&style=flat)
