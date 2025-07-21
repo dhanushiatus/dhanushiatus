@@ -53,8 +53,7 @@
 ---
 ## 🐍 GitHub Contribution Snake
 
-![GitHub Snake Light](https://raw.githubusercontent.com/dhanushiatus/dhanushiatus/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/dhanushiatus/dhanushiatus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake dark](https://github.com/dhanushiatus/dhanushiatus/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 🌐 Let's Connect
