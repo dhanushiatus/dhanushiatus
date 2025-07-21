@@ -1,9 +1,14 @@
 # Hi 👋, I'm Jagapathy Dhanushkar
 
-🎓 I'm a 3rd-year Data Science undergraduate at **SLIIT**, passionate about turning ideas into real-world applications.  
-💻 I specialize in building both **web** and **mobile applications**, focusing on the **MERN stack**, **Android development**, and **Java programming**.
+🎓 I'm a 3rd-year Data Science undergraduate at SLIIT with a deep passion for solving real-world problems through code.
 
-Outside academics, I love contributing to **open-source projects**, exploring **new technologies**, and collaborating with other developers to create meaningful and impactful software.
+💡 Whether it's a web app, mobile experience, or backend system — I enjoy bringing ideas to life with clean, scalable, and user-focused solutions.
+
+💻 My strengths lie in MERN stack development, Android app creation with Kotlin, and robust Java programming. I love blending creativity with functionality to build products that truly matter.
+
+🚀 I'm actively engaged in open-source contributions, and I’m constantly exploring emerging tools and frameworks to stay ahead in the tech landscape.
+
+🤝 I believe in collaboration, learning by doing, and making an impact — whether through internships, teamwork, or community involvement.
 
 ---
 
