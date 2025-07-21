@@ -51,9 +51,9 @@
 </p>
 
 ---
-## 🐍 GitHub Contribution Snake
+### 🐍 Contribution Snake
 
-![GitHub Snake dark](https://github.com/dhanushiatus/dhanushiatus/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/dhanushiatus/dhanushiatus/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 🌐 Let's Connect
