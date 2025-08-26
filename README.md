@@ -50,12 +50,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dhanushiatus&theme=radical&no-frame=true&row=1" alt="GitHub Trophies" />
 </p>
 
----
-### 🐍 GitHub Contribution Snake
-
-![snake gif](https://github.com/dhanushiatus/dhanushiatus/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![snake gif](https://github.com/dhanushiatus/dhanushiatus/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
 
 ## 🌐 Let's Connect
 
