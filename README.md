@@ -73,22 +73,6 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 
-## 🚀 Tech Stack
-
-**Languages:**  
-`Java` `JavaScript` `TypeScript` `C++` `C` `C#` `PHP`
-
-**Frontend:**  
-`HTML5` `CSS3` `Bootstrap` `Tailwind CSS` `React` `Android` `Kotlin`
-
-**Backend & Database:**  
-`Node.js` `Express.js` `MongoDB` `MySQL` `Firebase` `Azure`
-
-**Tools & Platforms:**  
-`Docker` `Webpack` `Selenium` `Postman` `Linux` `Figma` `Photoshop`
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
